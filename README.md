@@ -30,16 +30,23 @@ c)
 do it again
 
 d)
-######
+'######
 OUTPUT:
-######
+'######
+
 Some other exception: null
+
 Ex1 or Ex4
+
 Ex2 or Ex5
+
 Ex1 or Ex4
+
 Ex2 or Ex5
+
 FATAL ERROR!
-######
+
+'######
 
 In my companies software we can import pointclouds given a list of points.
 Now, a user can trigger the Method OpenPointCloudImportDialog(), where he has to choose an pointcloud-file.
